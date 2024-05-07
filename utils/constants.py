@@ -1,0 +1,1 @@
+IRIS_DATA_URL='http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
